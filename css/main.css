@@ -1,0 +1,11 @@
+header {
+    background: #03a9f4;
+    color: #fbfbfb;
+    padding: 0.25em 0;
+    text-shadow: 0 0 3px #01579b;
+}
+
+.container {
+    margin: auto;
+    width: 80%;
+}
